@@ -1,0 +1,2 @@
+# leetrust
+这个仓库用来记录使用rust刷leetcode的代码笔记
